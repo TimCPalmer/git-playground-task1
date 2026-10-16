@@ -4,7 +4,6 @@
 
 const fs = require("fs");
 const path = require("path");
-bawbag random edit
 const file = path.join(process.cwd(), "notes.md");
 
 if (!fs.existsSync(file)) {
