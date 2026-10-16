@@ -1,11 +1,10 @@
-rediction I predict: I renamed the 
+# My prediction
+I renamed the 
 
 store variable to v_store
 changed console message
 
-Claude's summary [Paste Claude's summary here]
-
-
+# Claude's summary
 1. Renamed store to v_store. This covers the require on line 2 and its three uses: add on line 15, all on line 20 and remove on line 32.
 2. Changed the message for an empty list on line 22:
    - Before: "No notes yet. Add one with: notes add <text>"
