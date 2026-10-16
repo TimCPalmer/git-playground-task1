@@ -6,7 +6,7 @@ I change console message on line 22 of notes.js to YOU GOT NO NOTES YET
 
 
 
-What claude told me changes : - it found the stray change
+claudes summary
 
 What changed
 1. notes.js (the two edits you asked me for):
